@@ -11,3 +11,10 @@ The examples in this repository will be written in both Python & Golang.
 | Domain | Subject              | Contents |
 | ------ | -------------------- | -------- |
 | 1      | Development with AWS |
+
+# TO-DO
+
+| Action Item                           | Description                                                                                                                                                                                                                        | Status      |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| Finish Updating Architecture Patterns | Inside of `Domain-1/README.md` we are listed all of the architectures listed under "Task 1" - [DOMAIN-1](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf). | In Progress |
+| Pluralsight IAM Review                | Review on AWS IAM                                                                                                                                                                                                                  | In Progress |
