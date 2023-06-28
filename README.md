@@ -6,6 +6,15 @@ This repository will contain documentation and code to demonstrate functional kn
 
 The examples in this repository will be written in both Python & Golang.
 
+# Exam Outline
+
+| Domain                                   | Exam Percentage |
+| ---------------------------------------- | --------------- |
+| Domain 1: Development with AWS Services  | 32%             |
+| Domain 2: Security                       | 26%             |
+| Domain 3: Deployment                     | 24%             |
+| Domain 4: Troubleshooting & Optimization | 18%             |
+
 # Table of Contents
 
 | Domain | Subject              | Contents |
